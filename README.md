@@ -10,7 +10,7 @@
 
 ## Tecnologias e Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,java,react,nextjs,mysql,prisma,sass,tailwind,git,github,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,react,nextjs,mysql,prisma,sass,tailwind,git,github,&perline=7)](https://skillicons.dev)
 
 ## Principais Ferramentas
 
