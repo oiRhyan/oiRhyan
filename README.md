@@ -1,3 +1,5 @@
+<image src="github_image (1).png"/>
+
 ### Olá! Meu nome é Rhyan Araujo, seja bem vindo ao meu perfil!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://full-stack-rhyan.netlify.app)
@@ -10,7 +12,7 @@
 
 ## Tecnologias e Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,react,nextjs,mysql,prisma,sass,tailwind,git,github,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,react,nextjs,mysql,firebase,prisma,sass,tailwind,git,github,&perline=14)](https://skillicons.dev)
 
 ## Principais Ferramentas
 
