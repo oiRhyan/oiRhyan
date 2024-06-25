@@ -16,4 +16,4 @@
 
 ## Principais Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=windows,kali,vscode,idea,linux&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,kali,vscode,idea,androidstudio,linux&perline=7)](https://skillicons.dev)
