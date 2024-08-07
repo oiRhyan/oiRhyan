@@ -9,7 +9,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511984793655&text=Mande+uma+mensagem+&type=phone_number&app_absent=0)
 
 ![Rhyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oiRhyan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oiRhyan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=typescript,csharp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oiRhyan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=csharp,sass)
 
 ## Tecnologias e Habilidades
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,react,nextjs,tailwind,firebase,mysql,sqlite,gradle,git&perline=13)](https://skillicons.dev)
