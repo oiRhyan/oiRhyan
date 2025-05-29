@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oiRhyan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=csharp,sass,javascript)
 
 ## Tecnologias e Habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,kotlin,react,nextjs,tailwind,firebase,mysql,sqlite,gradle,git&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,dotnet,kotlin,react,nextjs,tailwind,firebase,mysql,sqlite,gradle,git&perline=13)](https://skillicons.dev)
 
 ## Principais Ferramentas
 
